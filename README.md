@@ -1,2 +1,3 @@
 # hangman
 Programming the game hangman for the online course I'm doing.
+Realising I did not save the file properly, after finishing the project...
